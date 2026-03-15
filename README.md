@@ -1,10 +1,16 @@
-# Hi 👋 I'm Kevin Probetsado
+<h1 align="center">Hi 👋 I'm Kevin Probetsado</h1>
 
-🎓 BS Mathematics Graduate  
-📊 Aspiring Data Engineer / Data Analyst  
-📍 Philippines  
+<p align="center">
+  🎓 BS Mathematics Graduate  · 
+  📊 Aspiring Data Engineer / Data Analyst  · 
+  📍 Philippines
+</p>
 
-I enjoy working with data, building pipelines, and turning raw data into insights.
+<p align="center">
+  I enjoy working with data, building pipelines, and turning raw data into insights.
+</p>
+
+---
 
 ### 🛠 Tech stack
 
@@ -17,4 +23,4 @@ I enjoy working with data, building pipelines, and turning raw data into insight
 
 ### 📫 Let's connect
 
-Feel free to reach out or explore my repositories below.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-c-probetsado-aa9a64287/)
