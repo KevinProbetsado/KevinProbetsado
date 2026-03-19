@@ -24,3 +24,24 @@
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-c-probetsado-aa9a64287/)
+
+
+### 📁 Projects
+
+| Project | Tools | Description |
+|---|---|---|
+| [🦠 COVID-19 Data Exploration](https://github.com/KevinProbetsado/FirstProject) | SQL Server · Tableau | Analyzed global and Philippine COVID-19 death rates, infection spread, and vaccination rollout using CTEs, window functions, and joins |
+
+> More projects coming soon!
+
+---
+
+### 📊 Tableau Dashboards
+
+Check out my interactive visualizations on [Tableau Public →](https://public.tableau.com/app/profile/kevin.probetsado/vizzes)
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-c-probetsado-aa9a64287/)
