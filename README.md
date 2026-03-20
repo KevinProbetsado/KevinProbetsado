@@ -30,6 +30,7 @@
 
 | Project | Tools | Description |
 |---|---|---|
+| [🛒 Olist E-Commerce Analysis](https://github.com/KevinProbetsado/Ecommerce-Analysis) | SQL Server | Cleaned and analyzed a real-world 9-table Brazilian e-commerce dataset — handling NULLs, duplicates, and data transformation to uncover top revenue categories and customer spend |
 | [🦠 COVID-19 Data Exploration](https://github.com/KevinProbetsado/FirstProject) | SQL Server · Tableau | Analyzed global and Philippine COVID-19 death rates, infection spread, and vaccination rollout using CTEs, window functions, and joins |
 
 > More projects coming soon!
