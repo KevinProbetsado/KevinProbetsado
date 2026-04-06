@@ -30,6 +30,8 @@
 
 | Project | Tools | Description |
 |---|---|---|
+
+| [ 📞 Customer Call List — Data Cleaning Project (https://github.com/KevinProbetsado/Customer-Data-Cleaning) |Python |A real-world data cleaning project using **Python** and **pandas** to prepare a raw customer call list for a sales team. The raw dataset contained inconsistencies, missing values, poorly formatted phone numbers, and customers who opted out of contact — all of which were cleaned and standardized
 | [🛒 Olist E-Commerce Analysis](https://github.com/KevinProbetsado/Ecommerce-Analysis) | SQL Server | Cleaned and analyzed a real-world 9-table Brazilian e-commerce dataset — handling NULLs, duplicates, and data transformation to uncover top revenue categories and customer spend |
 | [🦠 COVID-19 Data Exploration](https://github.com/KevinProbetsado/FirstProject) | SQL Server · Tableau | Analyzed global and Philippine COVID-19 death rates, infection spread, and vaccination rollout using CTEs, window functions, and joins |
 
