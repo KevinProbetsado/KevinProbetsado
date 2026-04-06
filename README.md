@@ -15,9 +15,6 @@
   <a href="https://www.linkedin.com/in/kevin-c-probetsado-aa9a64287/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://public.tableau.com/app/profile/kevin.probetsado/vizzes">
-    <img src="https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white"/>
-  </a>
   <a href="https://github.com/KevinProbetsado">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
@@ -31,7 +28,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistical_Analysis-6A4C93?style=flat)
 
 ---
