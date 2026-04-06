@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 BS Mathematics Graduate &nbsp;·&nbsp;
-  📊 Aspiring Data Analyst &nbsp;·&nbsp;
+  📊 Data Analyst &nbsp;·&nbsp;
   📍 Philippines
 </p>
 
