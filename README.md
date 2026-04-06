@@ -48,12 +48,6 @@
 
 ---
 
-### 📊 Tableau Dashboards
-
-Check out my interactive visualizations on [**Tableau Public →**](https://public.tableau.com/app/profile/kevin.probetsado/vizzes)
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
