@@ -38,7 +38,7 @@
 |--------|-------|-------------|
 | [📞 Customer Call List — Data Cleaning](https://github.com/KevinProbetsado/Customer-Data-Cleaning) | Python · pandas | Cleaned a raw customer dataset — standardized phone numbers, removed opted-out contacts, split addresses, and handled missing values |
 | [🛒 Olist E-Commerce Analysis](https://github.com/KevinProbetsado/Ecommerce-Analysis) | SQL Server | Analyzed a real-world 9-table Brazilian e-commerce dataset — handling NULLs, duplicates, and data transformation to uncover top revenue categories and customer spend |
-
+| [🛒 Online Retail ETL Pipeline](https://github.com/KevinProbetsado/online-retail-etl) | Python · PowerBI · PostgreSQL  | End-to-end ETL pipeline processing 500K+ retail transactions with SQL analysis and Power BI dashboard |
 
 > 🔨 More projects coming soon!
 
