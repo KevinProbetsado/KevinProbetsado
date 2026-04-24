@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  I enjoy turning messy, real-world data into clean, actionable insights — <br/>
-  through data cleaning, SQL analysis, and interactive visualizations.
+Passionate about transforming messy, real-world data into clean, reliable datasets by designing ETL pipelines, applying advanced data cleaning techniques, and using SQL for efficient data processing — supporting scalable analytics and data-driven decision-making.
 </p>
 
 <p align="center">
