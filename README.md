@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Passionate about transforming messy, real-world data into clean, reliable datasets by designing ETL pipelines, applying advanced data cleaning techniques, and using SQL for efficient data processing, supporting scalable analytics and data-driven decision-making.
+ Passionate transforming messy, real-world data into reliable, structured datasets by building efficient data pipelines, performing robust data cleaning, and using SQL for scalable data processing to support analytics and decision-making.
 </p>
 
 <p align="center">
